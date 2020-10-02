@@ -943,6 +943,7 @@ id easeIn
 id easeInOut
 id easeOut
 id edit_query
+id edittext1
 id end
 id end_padder
 id expand_activities_button

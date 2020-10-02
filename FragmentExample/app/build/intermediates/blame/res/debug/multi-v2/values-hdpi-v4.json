@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Aaditya\\FragmentExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "D:\\Aaditya\\gitexamples\\FragmentExample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\PC2\\.gradle\\caches\\transforms-2\\files-2.1\\035e79feac643ff23f2c9730c699e50a\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
